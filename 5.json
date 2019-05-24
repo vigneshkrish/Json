@@ -1,6 +1,6 @@
 {"InventorySnapShot":{"ProductionLine":"Line20","ProgramName":"HUW-03025SGR-QA-B-868", "Data":[
- {"Machine":"X4is-ML17C1","Location":"2","Slot":"33","ItemCode":"HUW-10100256-24052019001","SKID":2000,"TotalQty":3000,"UsageQty":2500,"BalanceQty":6000,"DateResponse":"2019-05-20T11:16:53"}
+ {"Machine":"X4is-ML17C1","Location":"2","Slot":"33","ItemCode":"HUW-10100256-24052019001","SKID":2000,"TotalQty":3000,"UsageQty":2500,"BalanceQty":7500,"DateResponse":"2019-05-20T11:16:53"}
 , 
-{"Machine":"X4is-ML17C1","Location":"2","Slot":"34","ItemCode":"HUW-10100256-24052019002","SKID":500,"TotalQty":4000,"UsageQty":3500,"BalanceQty":3500,"DateResponse":"2019-05-20T11:16:53"}
+{"Machine":"X4is-ML17C1","Location":"2","Slot":"34","ItemCode":"HUW-10100256-24052019002","SKID":500,"TotalQty":4000,"UsageQty":3500,"BalanceQty":4780,"DateResponse":"2019-05-20T11:16:53"}
   
  ]}}
