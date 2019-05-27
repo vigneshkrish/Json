@@ -1,4 +1,4 @@
-{"InventorySnapShot":{"ProductionLine":"Line20","ProgramName":"UPHProg01-27052019", "Data":[
+{"InventorySnapShot":{"ProductionLine":"Line20","ProgramName":"UPHProg01-27052019-868", "Data":[
  {"Machine":"SPX001-27052019","Location":"14","Slot":"12","ItemCode":"ITMOTO1-027052019","SKID":1500,"TotalQty":5000,"UsageQty":3000,"BalanceQty":2000,"DateResponse":"2019-05-20T11:16:53"}
 , 
 {"Machine":"SPX003-27052019 ","Location":"16","Slot":"14","ItemCode":"ITMOTO2-027052019","SKID":1000,"TotalQty":6000,"UsageQty":15000,"BalanceQty":4000,"DateResponse":"2019-05-20T11:16:53"}
