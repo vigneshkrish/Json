@@ -1,11 +1,62 @@
-{"InventorySnapShot":{"ProductionLine":"Line20","ProgramName":"Progmaax001", "Data":[
- {"Machine":"pocomax001","Location":"15,"Slot":"17","ItemCode":"ITMOT19-028052019","SKID":999999,"TotalQty":99999,"UsageQty":999999,"BalanceQty":99999,"DateResponse":"2019-05-28T11:16:53"}
+{"InventorySnapShot":{"ProductionLine":"Line20","ProgramName":"HUW-03025SGR-QA-E-868", "Data":[
+ {"Machine":"X4is-ML17C1","Location":"2","Slot":"33","ItemCode":"HUW-10100256-28052019-Data-1","SKID":2000,"TotalQty":3000,"UsageQty":2500,"BalanceQty":200,"DateResponse":"2019-05-20T11:16:53"}
 , 
-{"Machine":"pocomax001","Location":"15","Slot":"17","ItemCode":"ITMOT20-028052019","SKID":11111,"TotalQty":0,"UsageQty":0,"BalanceQty":0,"DateResponse":"2019-05-28T11:16:53"}
-, 
-{"Machine":"pocomax001","Location":"15","Slot":"17","ItemCode":"ITMOT21-028052019","SKID":123,"TotalQty":1000000,"UsageQty":2300,"BalanceQty":1000000,"DateResponse":"2019-05-28T11:16:53"}
-, 
-{"Machine":"pocomax001","Location":"15","Slot":"17","ItemCode":"ITMOTO8-028052019","SKID":100,"TotalQty":999,"UsageQty":3245,"BalanceQty":012343,"DateResponse":"2019-05-28T11:16:53"}
-, 
-{"Machine":"pocomax001","Location":"15","Slot":"17","ItemCode":"ITMOTO9-028052019","SKID":200,"TotalQty":234654,"UsageQty":94654,"BalanceQty": ,"DateResponse":"2019-05-28T11:16:53"}
+{"Machine":"X4is-ML17C1","Location":"2","Slot":"34","ItemCode":"HUW-10100256-28052019-Data-2","SKID":500,"TotalQty":4000,"UsageQty":3500,"BalanceQty":300,"DateResponse":"2019-05-20T11:16:53"}
+  
+  {"Machine":"X4is-ML17C1","Location":"2","Slot":"35","ItemCode":"HUW-10100256-28052019-Data-3","SKID":500,"TotalQty":4000,"UsageQty":3500,"BalanceQty":300,"DateResponse":"2019-05-20T11:16:53"}
+  
+  {"Machine":"X4is-ML17C1","Location":"2","Slot":"36","ItemCode":"HUW-10100256-28052019-Data-4","SKID":500,"TotalQty":4000,"UsageQty":3500,"BalanceQty":300,"DateResponse":"2019-05-20T11:16:53"}
+  
+  {"Machine":"X4is-ML17C1","Location":"2","Slot":"37","ItemCode":"HUW-10100256-28052019-Data-5","SKID":500,"TotalQty":4000,"UsageQty":3500,"BalanceQty":300,"DateResponse":"2019-05-20T11:16:53"}
+  
+  {"Machine":"X4is-ML17C1","Location":"2","Slot":"38","ItemCode":"HUW-10100256-28052019-Data-6","SKID":500,"TotalQty":4000,"UsageQty":3500,"BalanceQty":300,"DateResponse":"2019-05-20T11:16:53"}
+  
+  {"Machine":"X4is-ML17C1","Location":"2","Slot":"39","ItemCode":"HUW-10100256-28052019-Data-7","SKID":500,"TotalQty":4000,"UsageQty":3500,"BalanceQty":300,"DateResponse":"2019-05-20T11:16:53"}
+  
+  {"Machine":"X4is-ML17C1","Location":"2","Slot":"40","ItemCode":"HUW-10100256-28052019-Data-8","SKID":500,"TotalQty":4000,"UsageQty":3500,"BalanceQty":300,"DateResponse":"2019-05-20T11:16:53"}
+  
+  {"Machine":"X4is-ML17C1","Location":"2","Slot":"41","ItemCode":"HUW-10100256-28052019-Data-9","SKID":500,"TotalQty":4000,"UsageQty":3500,"BalanceQty":300,"DateResponse":"2019-05-20T11:16:53"}
+  
+  {"Machine":"X4is-ML17C1","Location":"2","Slot":"42","ItemCode":"HUW-10100256-28052019-Data-10","SKID":500,"TotalQty":4000,"UsageQty":3500,"BalanceQty":300,"DateResponse":"2019-05-20T11:16:53"}
+  
+  {"Machine":"X4is-ML17C1","Location":"2","Slot":"43","ItemCode":"HUW-10100256-28052019-Data-11","SKID":500,"TotalQty":4000,"UsageQty":3500,"BalanceQty":300,"DateResponse":"2019-05-20T11:16:53"}
+  
+  {"Machine":"X4is-ML17C1","Location":"2","Slot":"44","ItemCode":"HUW-10100256-28052019-Data-12","SKID":500,"TotalQty":4000,"UsageQty":3500,"BalanceQty":300,"DateResponse":"2019-05-20T11:16:53"}
+  
+  {"Machine":"X4is-ML17C1","Location":"2","Slot":"45","ItemCode":"HUW-10100256-28052019-Data-13","SKID":500,"TotalQty":4000,"UsageQty":3500,"BalanceQty":300,"DateResponse":"2019-05-20T11:16:53"}
+  
+  {"Machine":"X4is-ML17C1","Location":"2","Slot":"46","ItemCode":"HUW-10100256-28052019-Data-14","SKID":500,"TotalQty":4000,"UsageQty":3500,"BalanceQty":300,"DateResponse":"2019-05-20T11:16:53"}
+  
+  {"Machine":"X4is-ML17C1","Location":"2","Slot":"47","ItemCode":"HUW-10100256-28052019-Data-15","SKID":500,"TotalQty":4000,"UsageQty":3500,"BalanceQty":300,"DateResponse":"2019-05-20T11:16:53"}
+  
+  {"Machine":"X4is-ML17C1","Location":"2","Slot":"48","ItemCode":"HUW-10100256-28052019-Data-16","SKID":500,"TotalQty":4000,"UsageQty":3500,"BalanceQty":300,"DateResponse":"2019-05-20T11:16:53"}
+  
+  {"Machine":"X4is-ML17C1","Location":"2","Slot":"49","ItemCode":"HUW-10100256-28052019-Data-17","SKID":500,"TotalQty":4000,"UsageQty":3500,"BalanceQty":300,"DateResponse":"2019-05-20T11:16:53"}
+  
+  {"Machine":"X4is-ML17C1","Location":"2","Slot":"50","ItemCode":"HUW-10100256-28052019-Data-18","SKID":500,"TotalQty":4000,"UsageQty":3500,"BalanceQty":300,"DateResponse":"2019-05-20T11:16:53"}
+  
+  {"Machine":"X4is-ML17C1","Location":"2","Slot":"51","ItemCode":"HUW-10100256-28052019-Data-19","SKID":500,"TotalQty":4000,"UsageQty":3500,"BalanceQty":300,"DateResponse":"2019-05-20T11:16:53"}
+  
+  {"Machine":"X4is-ML17C1","Location":"2","Slot":"52","ItemCode":"HUW-10100256-28052019-Data-20","SKID":500,"TotalQty":4000,"UsageQty":3500,"BalanceQty":300,"DateResponse":"2019-05-20T11:16:53"}
+  
+  {"Machine":"X4is-ML17C1","Location":"2","Slot":"53","ItemCode":"HUW-10100256-28052019-Data-21","SKID":500,"TotalQty":4000,"UsageQty":3500,"BalanceQty":300,"DateResponse":"2019-05-20T11:16:53"}
+  
+  {"Machine":"X4is-ML17C1","Location":"2","Slot":"54","ItemCode":"HUW-10100256-28052019-Data-22","SKID":500,"TotalQty":4000,"UsageQty":3500,"BalanceQty":300,"DateResponse":"2019-05-20T11:16:53"}
+  
+  {"Machine":"X4is-ML17C1","Location":"2","Slot":"55","ItemCode":"HUW-10100256-28052019-Data-23","SKID":500,"TotalQty":4000,"UsageQty":3500,"BalanceQty":300,"DateResponse":"2019-05-20T11:16:53"}
+  
+  {"Machine":"X4is-ML17C1","Location":"2","Slot":"56","ItemCode":"HUW-10100256-28052019-Data-24","SKID":500,"TotalQty":4000,"UsageQty":3500,"BalanceQty":300,"DateResponse":"2019-05-20T11:16:53"}
+  
+  {"Machine":"X4is-ML17C1","Location":"2","Slot":"57","ItemCode":"HUW-10100256-28052019-Data-25","SKID":500,"TotalQty":4000,"UsageQty":3500,"BalanceQty":300,"DateResponse":"2019-05-20T11:16:53"}
+  
+  {"Machine":"X4is-ML17C1","Location":"2","Slot":"58","ItemCode":"HUW-10100256-28052019-Data-26","SKID":500,"TotalQty":4000,"UsageQty":3500,"BalanceQty":300,"DateResponse":"2019-05-20T11:16:53"}
+  
+  {"Machine":"X4is-ML17C1","Location":"2","Slot":"49","ItemCode":"HUW-10100256-28052019-Data-27","SKID":500,"TotalQty":4000,"UsageQty":3500,"BalanceQty":300,"DateResponse":"2019-05-20T11:16:53"}
+  
+  {"Machine":"X4is-ML17C1","Location":"2","Slot":"60","ItemCode":"HUW-10100256-28052019-Data-28","SKID":500,"TotalQty":4000,"UsageQty":3500,"BalanceQty":300,"DateResponse":"2019-05-20T11:16:53"}
+  
+  {"Machine":"X4is-ML17C1","Location":"2","Slot":"61","ItemCode":"HUW-10100256-28052019-Data-29","SKID":500,"TotalQty":4000,"UsageQty":3500,"BalanceQty":300,"DateResponse":"2019-05-20T11:16:53"}
+  
+  {"Machine":"X4is-ML17C1","Location":"2","Slot":"62","ItemCode":"HUW-10100256-28052019-Data-30","SKID":500,"TotalQty":4000,"UsageQty":3500,"BalanceQty":300,"DateResponse":"2019-05-20T11:16:53"}
+  
  ]}}
