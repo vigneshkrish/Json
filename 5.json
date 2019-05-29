@@ -2,13 +2,10 @@
  {"Machine":"X4is-ML17C1","Location":"2","Slot":"33","ItemCode":"HUW-10100256-29052019-Data-1","SKID":2000,"TotalQty":3000,"UsageQty":2500,"BalanceQty":200,"DateResponse":"2019-05-20T11:16:53"}
   , 
   {"Machine":"X4is-ML17C1","Location":"3","Slot":"34","ItemCode":"HUW-10100256-29052019-Data-2","SKID":500,"TotalQty":4000,"UsageQty":3500,"BalanceQty":300,"DateResponse":"2019-05-20T11:16:53"}
-  
   , 
   {"Machine":"X4is-ML17C1","Location":"4","Slot":"35","ItemCode":"HUW-10100256-29052019-Data-3","SKID":500,"TotalQty":4000,"UsageQty":3500,"BalanceQty":300,"DateResponse":"2019-05-20T11:16:53"}
-  
   , 
   {"Machine":"X4is-ML17C1","Location":"5","Slot":"36","ItemCode":"HUW-10100256-29052019-Data-4","SKID":500,"TotalQty":4000,"UsageQty":3500,"BalanceQty":300,"DateResponse":"2019-05-20T11:16:53"}
-  
   , 
   {"Machine":"X4is-ML17C1","Location":"6","Slot":"37","ItemCode":"HUW-10100256-29052019-Data-5","SKID":500,"TotalQty":4000,"UsageQty":3500,"BalanceQty":300,"DateResponse":"2019-05-20T11:16:53"}
- ]}}s
+ ]}}
