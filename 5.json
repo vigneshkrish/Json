@@ -9,5 +9,5 @@
 , 
 {"Machine":"MOTO5","Location":"20","Slot":"16","ItemCode":"ITMOT19-028052019","SKID":200,"TotalQty":234654,"UsageQty":94654,"BalanceQty":1,"DateResponse":"2019-05-29T11:16:53"}
 , 
-{"Machine":"MOTO6","Location":"21","Slot":"17","ItemCode":"ITMOT14-028052019","SKID":01,"TotalQty":34324,"UsageQty":3245345,"BalanceQty":,"DateResponse":"2019-05-29T11:16:53"}
+{"Machine":"MOTO6","Location":"21","Slot":"17","ItemCode":"ITMOT14-028052019","SKID":01,"TotalQty":34324,"UsageQty":3245345,"BalanceQty":10,"DateResponse":"2019-05-29T11:16:53"}
  ]}}
