@@ -1,11 +1,13 @@
-{"InventorySnapShot":{"ProductionLine":"Line20","ProgramName":"Progmaax001", "Data":[
-{"Machine":"pocomax001","Location":"15","Slot":"17","ItemCode":"ITMOT19-028052019","SKID":999999,"TotalQty":99999,"UsageQty":999999,"BalanceQty":99999,"DateResponse":"2019-05-28T11:16:53"}
+{"InventorySnapShot":{"ProductionLine":"Line20","ProgramName":"MOTOPRO1", "Data":[
+{"Machine":"MOTO1","Location":"16","Slot":"12","ItemCode":"ITMOTO8-028052019","SKID":999999,"TotalQty":99999,"UsageQty":999999,"BalanceQty":99999,"DateResponse":"2019-05-29T11:16:53"}
 , 
-{"Machine":"pocomax001","Location":"15","Slot":"17","ItemCode":"ITMOT20-028052019","SKID":11111,"TotalQty":0,"UsageQty":0,"BalanceQty":0,"DateResponse":"2019-05-28T11:16:53"}
+{"Machine":"MOTO2","Location":"17","Slot":"13","ItemCode":"ITMOTO9-028052019","SKID":11111,"TotalQty":0,"UsageQty":0,"BalanceQty":0,"DateResponse":"2019-05-29T11:16:53"}
 , 
-{"Machine":"pocomax001","Location":"15","Slot":"17","ItemCode":"ITMOT21-028052019","SKID":123,"TotalQty":1000000,"UsageQty":2300,"BalanceQty":1000000,"DateResponse":"2019-05-28T11:16:53"}
+{"Machine":"MOTO3","Location":"18","Slot":"14","ItemCode":"ITMOT21-028052019","SKID":123,"TotalQty":1000000,"UsageQty":2300,"BalanceQty":1000000,"DateResponse":"2019-05-29T11:16:53"}
 , 
-{"Machine":"pocomax001","Location":"15","Slot":"17","ItemCode":"ITMOTO8-028052019","SKID":100,"TotalQty":999,"UsageQty":3245,"BalanceQty":012343,"DateResponse":"2019-05-28T11:16:53"}
+{"Machine":"MOTO4","Location":"19","Slot":"15","ItemCode":"ITMOT20-028052019","SKID":100,"TotalQty":999,"UsageQty":3245,"BalanceQty":012343,"DateResponse":"2019-05-29T11:16:53"}
 , 
-{"Machine":"pocomax001","Location":"15","Slot":"17","ItemCode":"ITMOTO9-028052019","SKID":200,"TotalQty":234654,"UsageQty":94654,"BalanceQty":1,"DateResponse":"2019-05-28T11:16:53"}
+{"Machine":"MOTO5","Location":"20","Slot":"16","ItemCode":"ITMOT19-028052019","SKID":200,"TotalQty":234654,"UsageQty":94654,"BalanceQty":1,"DateResponse":"2019-05-29T11:16:53"}
+, 
+{"Machine":"MOTO6","Location":"21","Slot":"17","ItemCode":"ITMOT14-028052019","SKID":01,"TotalQty":34324,"UsageQty":3245345,"BalanceQty":,"DateResponse":"2019-05-29T11:16:53"}
  ]}}
