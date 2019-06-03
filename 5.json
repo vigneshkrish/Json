@@ -1,4 +1,4 @@
-{"InventorySnapShot":{"ProductionLine":"Line18","ProgramName":"PICQ001-NC30052019-A-868", "Data":[
+{"InventorySnapShot":{"ProductionLine":"Line20","ProgramName":"PICQ001-NC30052019-A-868", "Data":[
 {"Machine":"ARM-101-MR201","Location":"53","Slot":"32","ItemCode":"ITGRM-R01-DB1-WQ001","SKID":001,"TotalQty":100,"UsageQty":999,"BalanceQty":2345,"DateResponse":"2019-06-03T11:16:53"}
 , 
 {"Machine":"ARM-101-MR202","Location":"34","Slot":"56","ItemCode":"ITGRM-R02-DB2-WQ002","SKID":222,"TotalQty":10,"UsageQty":6,"BalanceQty":9999,"DateResponse":"2019-06-03T11:16:53"}
