@@ -1,6 +1,6 @@
 {"InventorySnapShot":{"ProductionLine":"Line20","ProgramName":"PICQ003-NC06062019-B-868", "Data":[
-{"Machine":"ARM-103-MRT301","Location":"55","Slot":"39","ItemCode":"ITGRM-09-M1.017","SKID":49,"TotalQty":500,"UsageQty":250,"BalanceQty":250,"DateResponse":"2019-06-03T11:16:53"}
+{"Machine":"ARM-103-MRT305","Location":"67","Slot":"60","ItemCode":"ITGRM-07-G1.015","SKID":49,"TotalQty":500,"UsageQty":250,"BalanceQty":2,"DateResponse":"2019-06-03T11:16:53"}
 , 
-{"Machine":"ARM-103-MRT302","Location":"84","Slot":"54","ItemCode":"ITGRM-10-K1.018","SKID":50,"TotalQty":1000,"UsageQty":100,"BalanceQty":900,"DateResponse":"2019-06-03T11:16:53"}
+{"Machine":"ARM-103-MRT304","Location":"32","Slot":"59","ItemCode":"ITGRM-08-H1.016","SKID":50,"TotalQty":1000,"UsageQty":100,"BalanceQty":5,"DateResponse":"2019-06-03T11:16:53"}
  ]}}
  
