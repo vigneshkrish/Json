@@ -1,6 +1,10 @@
-{"InventorySnapShot":{"ProductionLine":"Line20","ProgramName":"PICQ003-NC06062019-B-868", "Data":[
-{"Machine":"ARM-103-MRT305","Location":"67","Slot":"60","ItemCode":"ITGRM-07-G1.015","SKID":49,"TotalQty":500,"UsageQty":250,"BalanceQty":2,"DateResponse":"2019-06-03T11:16:53"}
+{"InventorySnapShot":{"ProductionLine":"Line20","ProgramName":"ARM001-HP001-1006-868", "Data":[
+{"Machine":"TRT-001-EY1006","Location":"30","Slot":"01","ItemCode":"HI001-LI001-MNP1006","SKID":49,"TotalQty":50,"UsageQty":25,"BalanceQty":2,"DateResponse":"2019-06-10T11:16:53"}
 , 
-{"Machine":"ARM-103-MRT304","Location":"32","Slot":"59","ItemCode":"ITGRM-08-H1.016","SKID":50,"TotalQty":1000,"UsageQty":100,"BalanceQty":5,"DateResponse":"2019-06-03T11:16:53"}
+{"Machine":"TRT-001-EY1007","Location":"31","Slot":"02","ItemCode":"HI002-LI002-MNP1006","SKID":50,"TotalQty":10,"UsageQty":5,"BalanceQty":5,"DateResponse":"2019-06-10T11:16:53"}
+,
+{"Machine":"TRT-001-EY1008","Location":"32","Slot":"03","ItemCode":"HI003-LI003-MNP1006","SKID":49,"TotalQty":50,"UsageQty":25,"BalanceQty":2,"DateResponse":"2019-06-10T11:16:53"}
+,
+{"Machine":"TRT-001-EY1009","Location":"33","Slot":"04","ItemCode":"HI001-LI003-MNP1006","SKID":49,"TotalQty":50,"UsageQty":25,"BalanceQty":12,"DateResponse":"2019-06-10T11:16:53"}
  ]}}
  
