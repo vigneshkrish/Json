@@ -1,16 +1,24 @@
-{"InventorySnapShot":{"ProductionLine":"Line20","ProgramName":"WIG001-TNP001-1206-868", "Data":[
- {"Machine":"NPJ001-UPN001-YTB001","Location":"50","Slot":"30","ItemCode":"MP001.SP001-PN001","SKID":500,"TotalQty":400,"UsageQty":100,"BalanceQty":10,"DateResponse":"2019-05-20T11:16:53"}
+{"InventorySnapShot":{"ProductionLine":"Line20","ProgramName":"TYP1306-868", "Data":[
+ {"Machine":"machine 1","Location":"15","Slot":"01","ItemCode":"item001-13062019","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":15,"DateResponse":"2019-05-20T11:16:53"}
  ,
- {"Machine":"NPJ002-UPN002-YTB002","Location":"50","Slot":"31","ItemCode":"MP002.SP002-PN002","SKID":800,"TotalQty":200,"UsageQty":100,"BalanceQty":15,"DateResponse":"2019-05-20T11:16:53"}
+ {"Machine":"machine 2","Location":"15","Slot":"02","ItemCode":"item002-13062019","SKID":200,"TotalQty":340,"UsageQty":400,"BalanceQty":17,"DateResponse":"2019-05-20T11:16:53"}
  ,
- {"Machine":"NPJ003-UPN003-YTB003","Location":"50","Slot":"32","ItemCode":"MP003.SP003-PN003","SKID":500,"TotalQty":400,"UsageQty":100,"BalanceQty":2,"DateResponse":"2019-05-20T11:16:53"}
+ {"Machine":"machine 3","Location":"15","Slot":"03","ItemCode":"item003-13062019","SKID":300,"TotalQty":540,"UsageQty":600,"BalanceQty":25,"DateResponse":"2019-05-20T11:16:53"}
  ,
- {"Machine":"NPJ004-UPN004-YTB004","Location":"50","Slot":"33","ItemCode":"MP004.SP004-PN004","SKID":500,"TotalQty":400,"UsageQty":100,"BalanceQty":3,"DateResponse":"2019-05-20T11:16:53"}
+ {"Machine":"machine 4","Location":"15","Slot":"04","ItemCode":"item004-13062019","SKID":400,"TotalQty":120,"UsageQty":700,"BalanceQty":35,"DateResponse":"2019-05-20T11:16:53"}
  ,
- {"Machine":"NPJ005-UPN005-YTB005","Location":"50","Slot":"34","ItemCode":"MP005.SP005-PN005","SKID":500,"TotalQty":400,"UsageQty":100,"BalanceQty":7,"DateResponse":"2019-05-20T11:16:53"}
+ {"Machine":"machine 5","Location":"15","Slot":"05","ItemCode":"item005-13062019","SKID":500,"TotalQty":430,"UsageQty":800,"BalanceQty":16,"DateResponse":"2019-05-20T11:16:53"}
  ,
- {"Machine":"NPJ006-UPN006-YTB006","Location":"50","Slot":"35","ItemCode":"MP006.SP006-PN006","SKID":500,"TotalQty":400,"UsageQty":100,"BalanceQty":04,"DateResponse":"2019-05-20T11:16:53"}
- ]}}
+ {"Machine":"machine 6","Location":"15","Slot":"06","ItemCode":"item006-13062019","SKID":600,"TotalQty":210,"UsageQty":900,"BalanceQty":14,"DateResponse":"2019-05-20T11:16:53"}
+ ,
+ {"Machine":"machine 7","Location":"15","Slot":"07","ItemCode":"item007-13062019","SKID":700,"TotalQty":450,"UsageQty":121,"BalanceQty":25,"DateResponse":"2019-05-20T11:16:53"}
+ ,
+ {"Machine":"machine 8","Location":"15","Slot":"08","ItemCode":"item008-13062019","SKID":800,"TotalQty":430,"UsageQty":133,"BalanceQty":33,"DateResponse":"2019-05-20T11:16:53"}
+ ,
+ {"Machine":"machine 9","Location":"15","Slot":"09","ItemCode":"item009-13062019","SKID":900,"TotalQty":320,"UsageQty":145,"BalanceQty":26,"DateResponse":"2019-05-20T11:16:53"}
+ ,
+ {"Machine":"machine 10","Location":"15","Slot":"10","ItemCode":"item010-13062019","SKID":1000,"TotalQty":230,"UsageQty":600,"BalanceQty":34,"DateResponse":"2019-05-20T11:16:53"}
+  ]}}
  
  
 
