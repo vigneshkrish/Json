@@ -1,11 +1,11 @@
-{"InventorySnapShot":{"ProductionLine":"Line20","ProgramName":"TYP1306-868", "Data":[
- {"Machine":"MACMIN01","Location":"15","Slot":"16","ItemCode":"item001-13062019","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":15,"DateResponse":"2019-05-20T11:16:53"}
+{"InventorySnapShot":{"ProductionLine":"Line20","ProgramName":"ASM001-MES1406-868", "Data":[
+ {"Machine":"MAC-001","Location":"23","Slot":"11","ItemCode":"DXC001-1406","SKID":100,"TotalQty":320,"UsageQty":100,"BalanceQty":50,"DateResponse":"2019-05-20T11:16:53"}
  ,
- {"Machine":"MACMIN02","Location":"15","Slot":"17","ItemCode":"item002-13062019","SKID":200,"TotalQty":340,"UsageQty":400,"BalanceQty":17,"DateResponse":"2019-05-20T11:16:53"}
+ {"Machine":"MAC-002","Location":"23","Slot":"12","ItemCode":"DXC001-1407","SKID":200,"TotalQty":340,"UsageQty":400,"BalanceQty":77,"DateResponse":"2019-05-20T11:16:53"}
  ,
- {"Machine":"MACMIN03","Location":"15","Slot":"18","ItemCode":"item003-13062019","SKID":200,"TotalQty":340,"UsageQty":400,"BalanceQty":17,"DateResponse":"2019-05-20T11:16:53"}
+ {"Machine":"MAC-003","Location":"23","Slot":"13","ItemCode":"DXC001-1408","SKID":200,"TotalQty":340,"UsageQty":400,"BalanceQty":67,"DateResponse":"2019-05-20T11:16:53"}
  , 
- {"Machine":"MACMIN04","Location":"15","Slot":"19","ItemCode":"item004-13062019","SKID":200,"TotalQty":340,"UsageQty":400,"BalanceQty":17,"DateResponse":"2019-05-20T11:16:53"}
+ {"Machine":"MAC-004","Location":"23","Slot":"14","ItemCode":"DXC001-1409","SKID":200,"TotalQty":340,"UsageQty":400,"BalanceQty":37,"DateResponse":"2019-05-20T11:16:53"}
  ]}}
  
  
